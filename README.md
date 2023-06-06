@@ -80,7 +80,74 @@ I'm junior frontend developer
                   </a>
                   <br>nodejs
               </td>
+            </tr>
 </table>
+
+## HTML:
+- Video, iframe, embed, API.
+
+
+## CSS:
+- CSS Flexbox;
+- Animation;
+- Transformation;
+- Debagging in layout.
+
+
+## Adaptive layout:
+- Adaptive layout and working with the layout;
+- Grid Layout. Development of an interest for mobile devices.
+  
+## Metodology BEM
+
+## JavaScript:
+- DOM;
+- Debagging in JS;
+- Primitives;
+- Methods of working with data and conditions; 
+- Creating, adding and deleted elements in the DOM;
+- Arrays;
+- Functions;
+- Objects;
+- Event Handling;
+- Working with forms;
+- Validations of forms;
+- Object Oriented Programming;
+- OOP in interfaces; 
+- Modules in JS;
+- Destructurization;
+- Binding this and losing contex;
+- Asynchrony;
+- Work with API.
+
+
+## Webpack
+## GIT: 
+- Working with branches and working in a team.
+
+
+## React:
+- React hooks;
+- React Router;
+- Work with API;
+- REST;
+- Frontend - authentication «React».
+
+
+## Node.JS:
+- Server development.
+
+
+## Express.JS. 
+
+## Database.
+## POST & PRE processing CSS:
+- SASS;
+- LESS;
+- STYLUS;
+- DOIUSE;
+- AUTOPREFIXER;
+- RTLCSS.
 
 ## ⚙️  GitHub Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokopenko-nikita-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
