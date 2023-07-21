@@ -19,7 +19,7 @@
 
 ### 👨🏻‍💻  About Me :
 I'm junior frontend developer
-- I’m working as a Frontend Developer and contributing to for building web applications.
+- I’m working as a WEB Developer and contributing to for building web applications.
 - In my free time, I study new programming languages, technologies, libraries and form my own unique taste and approach to creating websites and applications
 
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
