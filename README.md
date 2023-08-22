@@ -21,8 +21,13 @@
 
 
 ### 👨🏻‍💻  About Me :
+<<<<<<< HEAD
 I'm frontend developer
 - I’m working as a Frontend Developer and contributing to for building web applications.
+=======
+I'm WEB developer
+- I’m working as a WEB Developer and contributing to for building web applications.
+>>>>>>> bd2b49347fef7bfbb72777081760806246ca4fc1
 - In my free time, I study new programming languages, technologies, libraries and form my own unique taste and approach to creating websites and applications
 
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
@@ -75,6 +80,7 @@ I'm frontend developer
             </tr>
 </table>
 
+<<<<<<< HEAD
 <table>
                                 <td align="center" width="96">
                   <a href="https://git-scm.com/">
@@ -109,6 +115,8 @@ I'm frontend developer
 </table>
 
 
+=======
+>>>>>>> bd2b49347fef7bfbb72777081760806246ca4fc1
 
 ## ⚙️  GitHub Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokopenko-nikita-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
