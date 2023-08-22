@@ -5,8 +5,11 @@
   <a href="https://t.me/nikitaprokopenko">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram" alt="Telegram"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://vk.com/haircutterpro">
     <img src="https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=VK" alt="VK"/>
+  </a>
+    <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav">
+    <img src="https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin" alt="Linkedin"/>
   </a>
 </div>
 
@@ -18,36 +21,25 @@
 
 
 ### 👨🏻‍💻  About Me :
-I'm junior frontend developer
+I'm frontend developer
 - I’m working as a Frontend Developer and contributing to for building web applications.
 - In my free time, I study new programming languages, technologies, libraries and form my own unique taste and approach to creating websites and applications
 
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 
+
 <table>
           <tr>
-              <td align="center" width="96">
-                  <a href="https://www.w3.org/html/">
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html5" />
-                  </a>
-                  <br>html
-              </td>
-              <td align="center" width="96">
-                  <a href="https://www.w3schools.com/css/">
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
-                  </a>
-                  <br>css
-              </td>
               <td align="center" width="96">
                   <a href="https://learn.javascript.ru/">
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
                   </a>
                   <br>javascript
-                                <td align="center" width="96">
-                  <a href="https://git-scm.com/">
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
+                                  <td align="center" width="96">
+                  <a href="https://www.typescriptlang.org/">
+                      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="typescript" />
                   </a>
-                  <br>git
+                  <br>TypeScript
               </td>
                             <td align="center" width="96">
                   <a href="https://reactjs.org/">
@@ -83,71 +75,40 @@ I'm junior frontend developer
             </tr>
 </table>
 
-## HTML:
-- Video, iframe, embed, API.
+<table>
+                                <td align="center" width="96">
+                  <a href="https://git-scm.com/">
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
+                  </a>
+                  <br>git
+              </td>
+              <td align="center" width="96">
+                  <a href="https://www.w3.org/html/">
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html5" />
+                  </a>
+                  <br>html
+              </td>
+              <td align="center" width="96">
+                  <a href="https://www.w3schools.com/css/">
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
+                  </a>
+                  <br>css
+              </td>
+                            <td align="center" width="96">
+                  <a href="https://expressjs.com/">
+                      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="expressjs" />
+                  </a>
+                  <br>expressjs
+              </td>
+                                          <td align="center" width="96">
+                  <a href="https://www.mongodb.com/">
+                      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+                  </a>
+                  <br>MongoDB
+              </td>
+</table>
 
 
-## CSS:
-- CSS Flexbox;
-- Animation;
-- Transformation;
-- Debagging in layout.
-
-
-## Adaptive layout:
-- Adaptive layout and working with the layout;
-- Grid Layout. Development of an interest for mobile devices.
-  
-## Metodology BEM
-
-## JavaScript:
-- DOM;
-- Debagging in JS;
-- Primitives;
-- Methods of working with data and conditions; 
-- Creating, adding and deleted elements in the DOM;
-- Arrays;
-- Functions;
-- Objects;
-- Event Handling;
-- Working with forms;
-- Validations of forms;
-- Object Oriented Programming;
-- OOP in interfaces; 
-- Modules in JS;
-- Destructurization;
-- Binding this and losing contex;
-- Asynchrony;
-- Work with API.
-
-
-## Webpack
-## GIT: 
-- Working with branches and working in a team.
-
-
-## React:
-- React hooks;
-- React Router;
-- Work with API;
-- REST;
-- Frontend - authentication «React».
-
-
-## Node.JS:
-- Server development.
-
-
-## Express.JS. 
-
-## Database.
-## POST & PRE processing CSS:
-- SASS;
-- LESS;
-- STYLUS;
-- DOIUSE;
-- AUTOPREFIXER;
-- RTLCSS.
 
 ## ⚙️  GitHub Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokopenko-nikita-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
